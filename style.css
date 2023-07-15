@@ -1,0 +1,16 @@
+ul>li{
+    display: inline-block;
+    width: 200px;
+}
+ul{
+    background-color: aqua;
+    position: sticky;
+    top: 0;
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    position: absolute;
+    left: 90%;
+}
